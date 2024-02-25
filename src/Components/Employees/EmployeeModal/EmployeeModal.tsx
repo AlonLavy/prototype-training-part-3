@@ -1,5 +1,5 @@
 import { Typography } from "@mui/material";
-import { Employee } from "../../Modules/Employee";
+import { Employee } from "../../../Modules/Employee";
 import { useEffect, useState } from "react";
 import axios from "axios";
 

@@ -1,5 +1,5 @@
 import { Button, Dialog, Paper, Typography } from "@mui/material";
-import { Employee } from "../../../Modules/Employee";
+import { Employee } from "../../../../Modules/Employee";
 import { useState } from "react";
 import { EmployeeModal } from "../../EmployeeModal/EmployeeModal";
 

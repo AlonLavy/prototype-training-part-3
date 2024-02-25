@@ -1,0 +1,9 @@
+.employees {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.employee {
+  width: calc(30%);
+  margin: 1%;
+}
